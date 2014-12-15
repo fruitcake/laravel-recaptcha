@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "fruitcakestudio/recaptcha": "0.3.x"
+        "fruitcakestudio/recaptcha": "0.3.x",
         "symfony/http-foundation": "~2.3",
         "laravel/support": "~4.0"
     },
