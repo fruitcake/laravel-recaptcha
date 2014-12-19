@@ -25,7 +25,7 @@ Add the ServiceProvider to your list of ServiceProviders:
 Publish the Configuration and edit the sitekey, secret and language.
 
 ```
-php artisan config:publish fruitcakestudio/recaptcha
+php artisan config:publish fruitcakestudio/laravel-recaptcha
 ```
 
 If you want to use the Facade, add that too.
